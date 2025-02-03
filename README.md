@@ -5,7 +5,7 @@ miroのボードのバックアップを行う。
 ## インストール
 
 ```sh
-$ git clone
+$ git clone https://github.com/ShigeoUeda/miro_board_backup.git
 $ cd miro_board_backup
 $ python -m venv venv
 $ source ./venv/bin/activate
