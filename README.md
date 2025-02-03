@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 $ nano .env
 ```
 
-** .envファイル**
+**.envファイル**
 
 miroのAPIトークンを格納する。
 
